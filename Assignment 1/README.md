@@ -1,6 +1,8 @@
 # CMPE 279 Assignment 1
 
-#### Collaborated with: Hanish Punamiya
+#### Team Members:
+- Ishan Kanungo (015260726)
+- Hanish Punamiya (015271971)
 
 Files Included:
 1. Client.c
